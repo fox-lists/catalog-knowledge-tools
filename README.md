@@ -57,6 +57,8 @@ Hierarchy:
   - [bpmm-io](https://bpmn.io) (bpmm-js, cmmn-js, dmm-js, form-js)
   - [Kroki](https://kroki.io)
   - [VegaLite](https://vega.github.io/vega-lite)
+  - [Cytoscape](https://cytoscape.org)
+  - [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core)
   - Railroad Diagram
     - [railroad-diagrams](https://github.com/tabatkins/railroad-diagrams)
     - [ebnf2railroad](https://github.com/matthijsgroen/ebnf2railroad)
@@ -89,7 +91,9 @@ Hierarchy:
   - [PlantUML](https://plantuml.com)
   - [nomnoml](https://nomnoml.com)
   - YUML
-
+- Temporary
+  - [Unovis](https://unovis.dev)
+  
 ### Typesetting Languages
 
 - text to document
